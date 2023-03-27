@@ -8,6 +8,8 @@ Der Funktionsblock E\_SR besteht aus zwei Eingängen und einem Ausgang. Der erst
 
 ![](https://user-images.githubusercontent.com/113907528/204904299-a6a3580a-42b4-4ea9-80c9-52b38b2d002b.png)
 
+![](https://user-images.githubusercontent.com/113907527/227968982-41363984-7ace-4732-912a-e60066cb2c6c.png)
+
 *   Input
     *   S Set output Q
     *   R Reset output Q
